@@ -1,0 +1,21 @@
+{
+  "name": "titlegen",
+  "repo": "namuol/titlegen",
+  "description": "Generate plausible titles from a list of example titles.",
+  "version": "0.0.1",
+  "keywords": [
+    "title",
+    "generator",
+    "markov",
+    "chain",
+    "video",
+    "videogame",
+    "game",
+    "name"
+  ],
+  "authors": ["Louis Acresti <louis.acresti@gmail.com> (http://namuol.github.io)"],
+  "license": "MIT",
+  "scripts": [
+    "titlegen.js"
+  ]
+}

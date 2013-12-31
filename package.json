@@ -1,0 +1,30 @@
+{
+  "name": "titlegen",
+  "description": "Generate plausible titles from a list of example titles.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/namuol/titlegen.git"
+  },
+  "keywords": [
+    "title",
+    "generator",
+    "markov",
+    "chain",
+    "video",
+    "videogame",
+    "game",
+    "name"
+  ],
+  "author": "Louis Acresti <louis.acresti@gmail.com> (http://namuol.github.io)",
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.8.0",
+    "grunt": "~0.4.2"
+  }
+}
