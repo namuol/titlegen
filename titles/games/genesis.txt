@@ -8,7 +8,7 @@ Aaahh! Real Monsters
 Aah! Harimanada
 Action 52
 Addams Family Values
-Addams Family, The
+The Addams Family
 Advanced Daisenryaku -Deutsch Dengeki Sakusen-
 Aero Blasters
 Aero the Acro-Bat
@@ -207,7 +207,7 @@ Davis Cup Tennis
 Davis Cup World Tour
 Daze Before Christmas
 Deadly Moves
-Death and Return of Superman, The
+The Death and Return of Superman
 Death Duel
 Decap Attack
 Demolition Man
@@ -246,7 +246,7 @@ Dragon's Fury
 Dragon's Revenge
 Dragon: The Bruce Lee Story
 Dream Team USA
-Duel, The: Test Drive II
+The Duel: Test Drive II
 Duke Nukem 3D
 Dune II: Battle for Arrakis
 Dune: The Battle For Arrakis
@@ -294,7 +294,7 @@ F-22 Interceptor
 F1
 F1 Circus MD
 F1 World Championship Edition
-Faery Tale Adventure, The
+The Faery Tale Adventure
 Family Feud
 Fantasia
 Fantasia: Mickey Mouse Magic
@@ -324,7 +324,7 @@ Flashback: The Quest for Identity
 Flicky
 Flicky
 Flink
-Flintstones, The
+The Flintstones
 Forbidden City
 Foreman For Real
 Forgotten Worlds
@@ -337,7 +337,7 @@ Funny World & Balloon Boy
 Fushigi no Umi no Nadia
 FZ Senki Axis
 Férias Frustradas do Pica-Pau
-Gadget Twins, The
+The Gadget Twins
 Gaiares
 Gain Ground
 Galahad
@@ -369,8 +369,8 @@ Goofy's Hysterical History Tour
 Gouketsuji Ichizoku
 Granada
 Grandslam
-Great Circus Mystery starring Mickey and Minnie, The
-Great Waldo Search, The
+The Great Circus Mystery starring Mickey and Minnie
+The Great Waldo Search
 Greatest Heavyweights
 Greendog: The Beached Surfer Dude!
 Grind Stormer
@@ -399,9 +399,9 @@ Home Alone: Esqueceram de Mim( They Forgot Me )
 Honō no Dōkyūji: Dodge Danpei
 Hook
 Huan Lè Táo Qì Shǔ: Smart Mouse
-Humans, The
+The Humans
 Hurricanes
-Hybrid Front, The
+The Hybrid Front
 Hyokkori Hyoutan Jima
 Hyper Dunk
 Hyper Marbles
@@ -409,8 +409,8 @@ I Love Donald Duck: Georgia Ou no Hihou
 I Love Mickey & Donald: Fushigi na Magic Box
 I Love Mickey Mouse: Fushigi no Oshiro Daibouken
 Ikazuse! Koi no Doki Doki Penguin Land MD
-Incredible Crash Dummies, The
-Incredible Hulk, The
+The Incredible Crash Dummies
+The Incredible Hulk
 Indiana Jones and the Last Crusade
 Insector X
 Instruments of Chaos starring Young Indiana Jones
@@ -484,7 +484,7 @@ Langrisser
 Langrisser II
 Last Action Hero
 Last Battle
-Legend of Galahad, The
+The Legend of Galahad
 Legend of Wukong
 Lemmings
 Lemmings 2: The Tribes
@@ -497,8 +497,8 @@ Light Crusader: Le Mystère de Green Rod
 Lightening Force: Quest for the Darkstar
 Link Dragon
 Lord Monarch
-Lost Vikings, The
-Lost World, The: Jurassic Park
+The Lost Vikings
+The Lost World: Jurassic Park
 Lotus II: R.E.C.S.
 Lotus Turbo Challenge
 M.U.S.H.A.
@@ -562,7 +562,7 @@ Mighty Morphin Power Rangers: The Movie
 Mike Ditka Power Football
 Minato no Traysia
 Minnesota Fats: Pool Legend
-Miracle Piano Teaching System, The
+The Miracle Piano Teaching System
 MLBPA Baseball
 MLBPA Sports Talk Baseball
 Monopoly
@@ -599,7 +599,7 @@ NBA Showdown '94
 NCAA Final Four Basketball
 NCAA Football
 Nekketsu Koukou Dodgeball-bu: Soccer-hen MD
-New Zealand Story, The
+The New Zealand Story
 Newman/Haas IndyCar featuring Nigel Mansell
 NFL '95
 NFL 98
@@ -631,10 +631,10 @@ Normy's Beach Babe-O-Rama
 Olympic Gold: Barcelona '92
 Olympic Summer Games: Atlanta 1996
 Onslaught
-Ooze, The
+The Ooze
 Operation Europe: Path to Victory
 Osomatsu-kun: Hachamecha Gekijō
-Ottifants, The
+The Ottifants
 Out of This World
 Out Run 2019
 Outlander
@@ -646,7 +646,7 @@ Pac-Mania
 Pac-Panic
 Pachinko Kuunyan
 Paddle Fighter
-Pagemaster, The
+The Pagemaster
 Panorama Cotton
 Paperboy
 Paperboy 2
@@ -685,7 +685,7 @@ Phelios
 Pier Solar and the Great Architects
 Pink Goes To Hollywood
 Pinocchio
-Pirates of Dark Water, The
+The Pirates of Dark Water
 Pirates! Gold
 Pit-Fighter
 Pitfall: The Mayan Adventure
@@ -710,7 +710,7 @@ Psy-O-Blade
 Psycho Pinball
 Puggsy
 Pulseman
-Punisher, The
+The Punisher
 Putter Golf
 Puyo Puyo
 Puyo Puyo Tsuu
@@ -736,9 +736,9 @@ Ranger X
 Ransei no Hasha
 Rastan Saga II
 Red Zone
-Ren & Stimpy Show Presents, The: Stimpy's Invention
+The Ren & Stimpy Show Presents: Stimpy's Invention
 Rent-A-Hero
-Revenge of Shinobi, The
+The Revenge of Shinobi
 Revolution X
 Richard Scarry's Busytown
 Riddle Wired
@@ -784,7 +784,7 @@ Saturday Night Slam Masters
 Scooby-Doo Mystery
 SD Valis
 SeaQuest DSV
-Second Samurai, The
+The Second Samurai
 Senjou no Ookami II
 Sensible Soccer: European Champions
 Sesame Street: Counting Cafe
@@ -823,7 +823,7 @@ Skitchin'
 Slam Dunk, From TV Animation: Kyougou Makkou Taiketsu!
 Slap Fight MD
 Slaughter Sport
-Smurfs, The: Tour of the World
+The Smurfs: Tour of the World
 Snake Rattle 'n' Roll
 Snow Bros.: Nick & Tom
 Socket
@@ -952,7 +952,7 @@ Teenage Mutant Ninja Turtles: Tournament Fighters
 Teitoku no Ketsudan
 Tel-Tel Mahjong
 Tel-Tel Stadium
-Terminator, The
+The Terminator
 Tetris
 The Adventures of Batman & Robin
 The Adventures of Mighty Max
@@ -981,7 +981,7 @@ Thunder Force IV
 Thunder Pro Wrestling Retsuden
 Thunderbolt II
 ThunderFox
-Tick, The
+The Tick
 Time Dominator 1st
 Time Killers
 Tinhead

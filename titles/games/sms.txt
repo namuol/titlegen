@@ -2,7 +2,7 @@
 4 Pak All Action
 Ace of Aces
 Action Fighter
-Addams Family, The
+The Addams Family
 Aerial Assault
 After Burner
 Air Rescue
@@ -59,7 +59,7 @@ Captain Silver
 Casino Games
 Castelo Rá-Tim-Bum
 Castle of Illusion Starring Mickey Mouse
-Castle, The
+The Castle
 Champions of Europe
 Championship Hockey
 Chapolim X Dracula: Um Duelo Assustador
@@ -76,7 +76,7 @@ Comical Machine Gun Joe
 Cool Spot
 Cosmic Spacehead
 Cyber Police ESWAT
-Cyber Shinobi, The
+The Cyber Shinobi
 Cyborg Hunter
 Daffy Duck in Hollywood
 Dallyeora Pigu-Wang
@@ -120,8 +120,8 @@ FIFA International Soccer
 Final Bubble Bobble
 Fire & Forget 2
 Fire and Ice
-Flash, The
-Flintstones, The
+The Flash
+The Flintstones
 Forgotten Worlds
 Formula One
 Férias Frustradas do Pica-Pau
@@ -165,8 +165,8 @@ Hook
 Hoshi wo Sagashite...
 Hwarang-ui Geom
 Impossible Mission
-Incredible Crash Dummies, The
-Incredible Hulk, The
+The Incredible Crash Dummies
+The Incredible Hulk
 Indiana Jones and the Last Crusade: The Action Game
 Indiana Jones e a Ultima Crusada
 James "Buster" Douglas Knockout Boxing
@@ -176,7 +176,7 @@ Joe Montana Football
 Jogos de Verão
 JP
 JP
-Jungle Book, The
+The Jungle Book
 Jurassic Park
 Kenseiden
 King's Quest: Quest for the Crown
@@ -191,7 +191,7 @@ Le Roi Lion
 Legend of Illusion Starring Mickey Mouse
 Lemmings
 Line of Fire
-Lion King, The
+The Lion King
 Lord of Sword
 Lord of the Sword
 Loretta no Shouzou
@@ -225,13 +225,13 @@ My Hero
 My Hero (card)
 Nazca '88: The Golden Road to Paradise
 Nekyuu Kousien
-New Zealand Story, The
+The New Zealand Story
 Ninja Gaiden
-Ninja, The
+The Ninja
 Nuclear Creature
 Olympic Gold: Barcelona '92
 Operation Wolf
-Ottifants, The
+The Ottifants
 Out Run 3-D
 Out Run Europa
 OutRun
@@ -293,12 +293,12 @@ Shadow of the Beast
 Shanghai
 Shinobi
 Shooting Gallery
-Simpsons, The: Bart vs. the Space Mutants
-Simpsons, The: Bart vs. the World
+The Simpsons: Bart vs. the Space Mutants
+The Simpsons: Bart vs. the World
 Slap Shot
 Smash TV
-Smurfs 2, The: Travel the World
-Smurfs, The
+The Smurfs 2: Travel the World
+The Smurfs
 Snail Maze
 Solomon no Kagi - Oujo Rihita no Namida
 Sonic Blast
@@ -351,7 +351,7 @@ Teddy Boy
 Tennis Ace
 Tensai Bakabon
 Terminator 2: Judgment Day
-Terminator, The
+The Terminator
 The Pro Yakyuu Pennant Race
 Thunder Blade
 Time Soldiers
