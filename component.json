@@ -2,7 +2,7 @@
   "name": "titlegen",
   "repo": "namuol/titlegen",
   "description": "Generate plausible titles from a list of example titles.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "title",
     "generator",
