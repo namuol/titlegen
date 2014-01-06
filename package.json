@@ -16,6 +16,7 @@
     "game",
     "name"
   ],
+  "main": "titlegen.js",
   "author": "Louis Acresti <louis.acresti@gmail.com> (http://namuol.github.io)",
   "licenses": [
     {
