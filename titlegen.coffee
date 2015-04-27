@@ -3,6 +3,7 @@ defaults =
   max_word_count: 16
   max_attempts: 20
   splitter: /(\s|'s|[:!?]\s)/
+  joiner: ' '
   transform: (title) ->
     title.replace /\s('s|[:!?])/g, '$1'
 
@@ -61,7 +62,7 @@ create = (config={}) ->
       break  if next is '__END__'
 
       state = states[next]
-      next = ' '+next  unless n is 0
+      next = config.joiner + next  unless n is 0
       title += next
       ++n
 

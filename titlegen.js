@@ -8,6 +8,7 @@
     max_word_count: 16,
     max_attempts: 20,
     splitter: /(\s|'s|[:!?]\s)/,
+    joiner: ' ',
     transform: function(title) {
       return title.replace(/\s('s|[:!?])/g, '$1');
     }
@@ -111,7 +112,7 @@
         }
         state = states[next];
         if (n !== 0) {
-          next = ' ' + next;
+          next = config.joiner + next;
         }
         title += next;
         ++n;

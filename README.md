@@ -87,6 +87,13 @@ component install namuol/titlegen
 > 
 > The argument passed to `title.split()` to divide a title up into "words".
 
+<a name='api_config_joiner'></a>
+##### [`generator.config.joiner`](#api_config_joiner)
+
+> `String`; default is `' '`
+> 
+> A string used to combine words into titles.
+
 <a name='api_config_transform'></a>
 ##### [`generator.config.transform`](#api_config_transform)
 
