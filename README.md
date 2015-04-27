@@ -3,7 +3,9 @@
 Generate plausible titles from a list of example titles by employing a stupid-simple [Markov-Chain](http://en.wikipedia.org/wiki/Markov_chain) approach.
 
 ```javascript
-titlegen.feed([
+var generator = titlegen.create();
+
+generator.feed([
   'You Only Live Twice',
   'From Russia with Love',
   'The Man with the Golden Gun',
@@ -11,9 +13,9 @@ titlegen.feed([
   'Die Another Day'
 ]);
 
-console.log(titlegen()); // -> "From Russia with the Golden Gun"
-console.log(titlegen()); // -> "You Only Live and Let Die Another Day"
-console.log(titlegen()); // -> "The Man with Love"
+console.log(generator.next()); // -> "From Russia with the Golden Gun"
+console.log(generator.next()); // -> "You Only Live and Let Die Another Day"
+console.log(generator.next()); // -> "The Man with Love"
 ```
 
 This was originally made for generating video game titles (which is why `/titles` includes many lists of game titles from multiple platforms), but as the example above shows, it can also be used to generate other types of titles.
@@ -41,32 +43,37 @@ component install namuol/titlegen
 
 ### API
 
+<a name='api_create'></a>
+##### [`var generator = titlegen.create()`](#api_create)
+
+> Create a new title generator.
+
 <a name='api_feed'></a>
-##### [`titlegen.feed(['Some Title', 'Some Other Title', ...])`](#api_feed)
+##### [`generator.feed(['Some Title', 'Some Other Title', ...])`](#api_feed)
 
 > Reset the internal Markov-chain and feed it a list of example titles (array of strings).
 
-<a name='api_titlegen'></a>
-##### [`titlegen()`](#api_titlegen)
+<a name='api_next'></a>
+##### [`generator.next()`](#api_next)
 
 > Generate a new random title and return it as a string.
 
 <a name='api_config_min_word_count'></a>
-##### [`titlegen.config.min_word_count`](#api_config_min_word_count)
+##### [`generator.config.min_word_count`](#api_config_min_word_count)
 
 > `Integer`; default is `2`.
 > 
 > The minimum number of words a generated title can have.
 
 <a name='api_config_max_word_count'></a>
-##### [`titlegen.config.max_word_count`](#api_config_max_word_count)
+##### [`generator.config.max_word_count`](#api_config_max_word_count)
 
 > `Integer`; default is `16`.
 > 
 > The maximum number of words a generated title can have.
 
 <a name='api_config_max_attempts'></a>
-##### [`titlegen.config.max_attempts`](#api_config_max_attempts)
+##### [`generator.config.max_attempts`](#api_config_max_attempts)
 
 > `Integer`; default is `20`.
 > 
@@ -74,14 +81,14 @@ component install namuol/titlegen
 > short, too long, or are duplicates of titles from the sample data are discarded.
 
 <a name='api_config_splitter'></a>
-##### [`titlegen.config.splitter`](#api_config_splitter)
+##### [`generator.config.splitter`](#api_config_splitter)
 
 > `RegExp|String`; default is `/(\s|'s|[:!?]\s)/`
 > 
 > The argument passed to `title.split()` to divide a title up into "words".
 
 <a name='api_config_transform'></a>
-##### [`titlegen.config.transform`](#api_config_transform)
+##### [`generator.config.transform`](#api_config_transform)
 
 > Function; default removes spaces in front of all instances of `:`, `!`, `?`, and `'s`.
 > 
