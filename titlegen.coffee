@@ -40,7 +40,9 @@ create = (config={}) ->
           first = false
 
         next = words[i+1] ? '__END__'
-        state = states[word] ?= {p:{}}
+        if not states.hasOwnProperty(word)
+          states[word] = {p:{}}
+        state = states[word]
         state.t ?= 0
         ++state.t
         state.p[next] ?= 0

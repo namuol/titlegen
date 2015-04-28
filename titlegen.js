@@ -73,9 +73,12 @@
             first = false;
           }
           next = (_ref = words[i + 1]) != null ? _ref : '__END__';
-          state = states[word] != null ? states[word] : states[word] = {
-            p: {}
-          };
+          if (!states.hasOwnProperty(word)) {
+            states[word] = {
+              p: {}
+            };
+          }
+          state = states[word];
           if (state.t == null) {
             state.t = 0;
           }
